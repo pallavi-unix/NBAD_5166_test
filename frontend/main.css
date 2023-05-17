@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.topSection{
+    padding: 2px;
+}
+
+tr#aa {background-color: lightgrey;}
+tr#bb {background-color: black; color: white;}
+
+#fontSize {font-family: Helvetica, Arial, Helvetica, sans-serif; font-size: 14px;}
